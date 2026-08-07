@@ -88,5 +88,6 @@ def main() -> None:
     print(f"\nAll tables in {out}/, figures in {config.FIGURES_DIR}/")
 
 
+
 if __name__ == "__main__":
     main()

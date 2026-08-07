@@ -72,4 +72,3 @@ data/              # gitignored; raw/ = cached API pulls, processed/ = tables
   everything is deterministic from `config.py` + cached raw pulls.
 - Workstream ownership per proposal §5: data/ingest, calibration+FLB,
   residual model + drift. Census results shared before choosing thresholds.
-```

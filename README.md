@@ -1,6 +1,6 @@
 # Kalshi Opening-Price Calibration — ISyE 6740 Group 010
 
-Team Members: Shreya kola, Rahi C. patel, Kunj shah,
+Team Members: Kunj shah, Rahi C. patel, Shreya kola
 
 Are Kalshi prediction markets well calibrated at open? Category-level study
 across Politics, Sports, Crypto, Economics, Financials, and Mentions.
